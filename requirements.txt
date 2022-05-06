@@ -1,5 +1,4 @@
 aiohttp
-aiosignal
 async-generator0
 async-timeout
 attrs
