@@ -1,6 +1,6 @@
 from distutils.command.upload import upload
 from pickle import TRUE
-from turtle import title
+from turtle import *
 from django.db import models
 from ckeditor.fields import RichTextField
 # Create your models here.
