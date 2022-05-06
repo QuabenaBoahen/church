@@ -41,7 +41,6 @@ h11==0.13.0
 httplib2==0.14.0
 idna==2.8
 importlib-metadata==4.10.1
-ip2geotools
 IP2Location==8.7.2
 isort==5.10.1
 keyring==18.0.1
