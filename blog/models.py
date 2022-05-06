@@ -1,7 +1,7 @@
 from distutils.command.upload import upload
 from email.policy import default
 from pickle import TRUE
-from turtle import update
+#from turtle import update
 from unicodedata import category, name
 from django.db import models
 from ckeditor.fields import RichTextField
