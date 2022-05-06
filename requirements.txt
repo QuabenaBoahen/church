@@ -1,6 +1,5 @@
 aiohttp
 aiosignal
-asgiref
 async-generator0
 async-timeout
 attrs
